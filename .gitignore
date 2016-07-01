@@ -1,3 +1,5 @@
-imgs/*
-data/submissions/*
 *.pyc
+/data/submitions/
+model/
+imgs/
+.idea/
